@@ -2,19 +2,25 @@
 ***
 ## Project Overview
 Applications for the needs of ping pong club. Main goal is to keep statistics of matches, the success of the players, their performance and attendance. 
-Requirements
-## Primary
+
+## Requirements
+### Primary
 * Statistics storage
 * Input data layout (BO-like)
 * Output data layout (user frontend)
-## Secondary
+
+### Secondary
 * Graphical representation of statistics
 * Datamining
 * Two-factor proof of validation
-## Technical Requirements
+
+### Technical Requirements
 * Webbrowser-based layouts
 * Login via social media
 * Mobile device optimalized
 ***
-### Authors
-Petr "Myö·k" Tatouöek [petr.tatousek@gmail.com](mailto:petr.tatousek@gmail.com) Radek Beneö [radekbenes@centrum.cz](mailto:radekbenes@centrum.cz)
+
+## Authors
+Petr "My≈°√°k" Tatou≈°ek [petr.tatousek@gmail.com](mailto:petr.tatousek@gmail.com) 
+
+Radek Bene≈° [radekbenes@centrum.cz](mailto:radekbenes@centrum.cz)
